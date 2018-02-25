@@ -1,0 +1,234 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="centannichiara.altervista.org" resolutions="1x" timestamp="1488309117161">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-mastro.css" crc="3929261415" ref="recensioni:index:contattaci:regioni"/>
+    <file name="nomq_preview_master_a-mastro.css" crc="56941948" ref="recensioni:index:contattaci:regioni"/>
+    <file name="recensioni.css" crc="501714439" ref="recensioni"/>
+    <file name="nomq_recensioni.css" crc="123375970" ref="recensioni"/>
+    <file name="index.css" crc="4194176289" ref="index"/>
+    <file name="nomq_index.css" crc="230898750" ref="index"/>
+    <file name="contattaci.css" crc="4235282178" ref="contattaci"/>
+    <file name="nomq_contattaci.css" crc="4034645169" ref="contattaci"/>
+    <file name="regioni.css" crc="445632175" ref="regioni"/>
+    <file name="nomq_regioni.css" crc="3942584554" ref="regioni"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:recensioni:regioni:contattaci"/>
+    <file name="museutils.js" crc="4148063285" ref="index:recensioni:regioni:contattaci"/>
+    <file name="whatinput.js" crc="86476730" ref="index:recensioni:regioni:contattaci"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:recensioni:regioni:contattaci"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:recensioni:regioni:contattaci"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:recensioni:regioni:contattaci"/>
+    <file name="require.js" crc="4159430777" ref="index:recensioni:regioni:contattaci"/>
+    <file name="webpro.js" crc="3986320349" ref="recensioni:regioni:contattaci"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="recensioni"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="recensioni"/>
+    <file name="touchswipe.js" crc="221459597" ref="recensioni"/>
+    <file name="form_check.php" crc="303648844" ref="regioni"/>
+    <file name="form_throttle.php" crc="236764551" ref="regioni"/>
+    <file name="form_process.php" crc="4272079531" ref="regioni"/>
+    <file name="form-u14406.php" crc="157024703" ref="regioni"/>
+    <file name="form-u1215.php" crc="4286462373" ref="contattaci"/>
+  </folder>
+  <folder name="images">
+    <file name="a-mastro-favicon.ico" crc="3956871416" ref="index"/>
+    <file name="sfondo.jpg" crc="4147937009" ref="index"/>
+    <file name="righine-u105-fr.png" crc="3932296414" ref="index"/>
+    <file name="sotto25-logoc.png" crc="4117279766" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-sigillo-01c.png" crc="508496728" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-mano-01c.png" crc="3789936625" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-mano-02c.png" crc="4256693527" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-decorazionec.png" crc="120533683" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-posatec.png" crc="3810012708" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="u3246-4.png" crc="486259532" ref="index"/>
+    <file name="sotto25-foto-02c.png" crc="464902718" seo="true" ref="index"/>
+    <file name="sotto25-foto-01c.png" crc="311285146" seo="true" ref="index"/>
+    <file name="u3287-4.png" crc="122790142" ref="index"/>
+    <file name="sotto25-sfondoc.png" crc="518177620" ref="index"/>
+    <file name="righine-u306-fr.png" crc="3932296414" ref="index"/>
+    <file name="sotto25-sigillo-02c.png" crc="4038025439" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-contattaci-vimeoc.png" crc="353236260" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-contattaci-twitter-logoc.png" crc="3758695758" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-contattaci-pinterest-letter-logo-squarec.png" crc="4280520860" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-contattaci-youtube-logoc.png" crc="3985025465" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-contattaci-instagramc.png" crc="294868911" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-contattaci-facebook-square-social-logoc.png" crc="3810314189" seo="true" ref="index:recensioni:regioni:contattaci"/>
+    <file name="u3246-42.png" crc="3994037501" ref="index"/>
+    <file name="u3287-42.png" crc="4123371296" ref="index"/>
+    <file name="u3246-43.png" crc="3839878456" ref="index"/>
+    <file name="u3287-43.png" crc="3961403895" ref="index"/>
+    <file name="u3246-44.png" crc="17504019" ref="index"/>
+    <file name="u3287-44.png" crc="4242508363" ref="index"/>
+    <file name="u3246-45.png" crc="3852152371" ref="index"/>
+    <file name="u3287-45.png" crc="485569963" ref="index"/>
+    <file name="u3246-46.png" crc="3991926173" ref="index"/>
+    <file name="u3287-46.png" crc="3820412313" ref="index"/>
+    <file name="righine-u306-fr2.png" crc="3932296414" ref="index"/>
+    <file name="sotto25-crop-u119.png" crc="3836261724" ref="index:recensioni:regioni:contattaci"/>
+    <file name="u3246-47.png" crc="3923791628" ref="index"/>
+    <file name="u3287-47.png" crc="4237709401" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:recensioni:regioni:contattaci"/>
+    <file name="sotto25-chiara-menu-forma 3 copia 4c.png" crc="334994279" seo="true" ref="recensioni"/>
+    <file name="u4005-4.png" crc="4088270697" ref="recensioni"/>
+    <file name="sotto25-chiara-menu-clockc.png" crc="4270718544" seo="true" ref="recensioni"/>
+    <file name="sotto25-chiara-menu-cocktailc.png" crc="12840954" seo="true" ref="recensioni"/>
+    <file name="sotto25-chiara-menu-caffec.png" crc="3794799586" seo="true" ref="recensioni"/>
+    <file name="3.jpg" crc="3906901171" seo="true" ref="recensioni"/>
+    <file name="6.jpg" crc="159610269" seo="true" ref="recensioni"/>
+    <file name="7.jpg" crc="4153858035" seo="true" ref="recensioni"/>
+    <file name="8.jpg" crc="491120432" seo="true" ref="recensioni"/>
+    <file name="9.jpg" crc="3862676270" seo="true" ref="recensioni"/>
+    <file name="10.jpg" crc="4158845421" seo="true" ref="recensioni"/>
+    <file name="17.jpg" crc="3906422489" seo="true" ref="recensioni"/>
+    <file name="12.jpg" crc="4130350490" seo="true" ref="recensioni"/>
+    <file name="13.jpg" crc="3871828822" seo="true" ref="recensioni"/>
+    <file name="16.jpg" crc="387250074" seo="true" ref="recensioni"/>
+    <file name="368x45.jpg" crc="229426812" seo="true" ref="recensioni"/>
+    <file name="668x45.jpg" crc="3989252803" seo="true" ref="recensioni"/>
+    <file name="768x45.jpg" crc="384190231" seo="true" ref="recensioni"/>
+    <file name="868x45.jpg" crc="478449272" seo="true" ref="recensioni"/>
+    <file name="968x45.jpg" crc="87963383" seo="true" ref="recensioni"/>
+    <file name="1068x45.jpg" crc="3983753865" seo="true" ref="recensioni"/>
+    <file name="1768x45.jpg" crc="4272847537" seo="true" ref="recensioni"/>
+    <file name="1268x45.jpg" crc="3952857629" seo="true" ref="recensioni"/>
+    <file name="1368x45.jpg" crc="114212209" seo="true" ref="recensioni"/>
+    <file name="1668x45.jpg" crc="4136507002" seo="true" ref="recensioni"/>
+    <file name="loading.gif" crc="3815509949" ref="recensioni"/>
+    <file name="u4005-42.png" crc="177919444" ref="recensioni"/>
+    <file name="u4005-43.png" crc="3772105581" ref="recensioni"/>
+    <file name="u4005-44.png" crc="3995220568" ref="recensioni"/>
+    <file name="u4005-45.png" crc="470027660" ref="recensioni"/>
+    <file name="u4005-46.png" crc="4158924624" ref="recensioni"/>
+    <file name="3-crop-u32764.jpg" crc="3873547076" ref="recensioni"/>
+    <file name="6-crop-u32758.jpg" crc="27320821" ref="recensioni"/>
+    <file name="7-crop-u32766.jpg" crc="3766269232" ref="recensioni"/>
+    <file name="8-crop-u32772.jpg" crc="4290699121" ref="recensioni"/>
+    <file name="9-crop-u32768.jpg" crc="4157248117" ref="recensioni"/>
+    <file name="10-crop-u32774.jpg" crc="459263646" ref="recensioni"/>
+    <file name="17-crop-u32762.jpg" crc="3922112200" ref="recensioni"/>
+    <file name="12-crop-u32770.jpg" crc="3830388036" ref="recensioni"/>
+    <file name="13-crop-u32760.jpg" crc="3777380951" ref="recensioni"/>
+    <file name="16-crop-u32756.jpg" crc="234777341" ref="recensioni"/>
+    <file name="u4005-47.png" crc="4159158827" ref="recensioni"/>
+    <file name="3-crop-u327642.jpg" crc="511754587" ref="recensioni"/>
+    <file name="6-crop-u327582.jpg" crc="268153106" ref="recensioni"/>
+    <file name="7-crop-u327662.jpg" crc="210144090" ref="recensioni"/>
+    <file name="8-crop-u327722.jpg" crc="3970296283" ref="recensioni"/>
+    <file name="9-crop-u327682.jpg" crc="345627715" ref="recensioni"/>
+    <file name="10-crop-u327742.jpg" crc="454532962" ref="recensioni"/>
+    <file name="17-crop-u327622.jpg" crc="331258638" ref="recensioni"/>
+    <file name="12-crop-u327702.jpg" crc="4235220262" ref="recensioni"/>
+    <file name="13-crop-u327602.jpg" crc="3794730345" ref="recensioni"/>
+    <file name="16-crop-u327562.jpg" crc="183024937" ref="recensioni"/>
+    <file name="u3293-4.png" crc="157977217" ref="regioni"/>
+    <file name="u3301-4.png" crc="3833730043" ref="regioni"/>
+    <file name="u14421.png" crc="3915958781" ref="regioni"/>
+    <file name="u14421-r.png" crc="529963229" ref="regioni"/>
+    <file name="u14421-m.png" crc="3916494215" ref="regioni"/>
+    <file name="u14421-fs.png" crc="3915958781" ref="regioni"/>
+    <file name="u3293-42.png" crc="368880663" ref="regioni"/>
+    <file name="u3301-42.png" crc="3910546007" ref="regioni"/>
+    <file name="u144212.png" crc="3799473127" ref="regioni"/>
+    <file name="u14421-r2.png" crc="3841479660" ref="regioni"/>
+    <file name="u14421-m2.png" crc="4036986735" ref="regioni"/>
+    <file name="u14421-fs2.png" crc="3799473127" ref="regioni"/>
+    <file name="u3293-43.png" crc="4171806084" ref="regioni"/>
+    <file name="u3301-43.png" crc="61238652" ref="regioni"/>
+    <file name="u144213.png" crc="4032652866" ref="regioni"/>
+    <file name="u14421-r3.png" crc="4040722937" ref="regioni"/>
+    <file name="u14421-m3.png" crc="4266883247" ref="regioni"/>
+    <file name="u14421-fs3.png" crc="4032652866" ref="regioni"/>
+    <file name="u3293-44.png" crc="4223108897" ref="regioni"/>
+    <file name="u3301-44.png" crc="339916466" ref="regioni"/>
+    <file name="u144214.png" crc="455634293" ref="regioni"/>
+    <file name="u14421-r4.png" crc="493237243" ref="regioni"/>
+    <file name="u14421-m4.png" crc="11375886" ref="regioni"/>
+    <file name="u14421-fs4.png" crc="455634293" ref="regioni"/>
+    <file name="u3293-45.png" crc="33989928" ref="regioni"/>
+    <file name="u3301-45.png" crc="448710794" ref="regioni"/>
+    <file name="u144215.png" crc="4158000581" ref="regioni"/>
+    <file name="u14421-r5.png" crc="3910399809" ref="regioni"/>
+    <file name="u14421-m5.png" crc="4231785320" ref="regioni"/>
+    <file name="u14421-fs5.png" crc="4158000581" ref="regioni"/>
+    <file name="u3293-46.png" crc="63747655" ref="regioni"/>
+    <file name="u3301-46.png" crc="375361115" ref="regioni"/>
+    <file name="u144216.png" crc="4123882552" ref="regioni"/>
+    <file name="u14421-r6.png" crc="4182410081" ref="regioni"/>
+    <file name="u14421-m6.png" crc="137272235" ref="regioni"/>
+    <file name="u14421-fs6.png" crc="4123882552" ref="regioni"/>
+    <file name="u3293-47.png" crc="4112437700" ref="regioni"/>
+    <file name="u3301-47.png" crc="4102301489" ref="regioni"/>
+    <file name="u144217.png" crc="4235538508" ref="regioni"/>
+    <file name="u14421-r7.png" crc="500235575" ref="regioni"/>
+    <file name="u14421-m7.png" crc="4024154049" ref="regioni"/>
+    <file name="u14421-fs7.png" crc="4235538508" ref="regioni"/>
+    <file name="u1211-4.png" crc="265480708" ref="contattaci"/>
+    <file name="u1856-4.png" crc="373783641" ref="contattaci"/>
+    <file name="sotto25-contattaci-crop-u44704.png" crc="4221255727" ref="contattaci"/>
+    <file name="u1224.png" crc="2491503" ref="contattaci"/>
+    <file name="u1224-r.png" crc="179631018" ref="contattaci"/>
+    <file name="u1224-m.png" crc="445992265" ref="contattaci"/>
+    <file name="u1224-fs.png" crc="471411446" ref="contattaci"/>
+    <file name="u1254.png" crc="229290225" ref="contattaci"/>
+    <file name="u1254-ferr.png" crc="124133986" ref="contattaci"/>
+    <file name="u1211-42.png" crc="3974368506" ref="contattaci"/>
+    <file name="u1856-42.png" crc="4261015646" ref="contattaci"/>
+    <file name="sotto25-contattaci-crop-u447042.png" crc="4223590132" ref="contattaci"/>
+    <file name="u12242.png" crc="2491503" ref="contattaci"/>
+    <file name="u1224-r2.png" crc="179631018" ref="contattaci"/>
+    <file name="u1224-m2.png" crc="445992265" ref="contattaci"/>
+    <file name="u1224-fs2.png" crc="471411446" ref="contattaci"/>
+    <file name="u12542.png" crc="419122237" ref="contattaci"/>
+    <file name="u1254-ferr2.png" crc="316623397" ref="contattaci"/>
+    <file name="u1211-43.png" crc="4181575139" ref="contattaci"/>
+    <file name="u1856-43.png" crc="71772379" ref="contattaci"/>
+    <file name="sotto25-contattaci-crop-u447043.png" crc="95909012" ref="contattaci"/>
+    <file name="u12243.png" crc="2491503" ref="contattaci"/>
+    <file name="u1224-r3.png" crc="179631018" ref="contattaci"/>
+    <file name="u1224-m3.png" crc="445992265" ref="contattaci"/>
+    <file name="u1224-fs3.png" crc="471411446" ref="contattaci"/>
+    <file name="u12543.png" crc="3860874191" ref="contattaci"/>
+    <file name="u1254-ferr3.png" crc="176623522" ref="contattaci"/>
+    <file name="u1211-44.png" crc="519686109" ref="contattaci"/>
+    <file name="u1856-44.png" crc="4261015646" ref="contattaci"/>
+    <file name="u12244.png" crc="2491503" ref="contattaci"/>
+    <file name="u1224-r4.png" crc="179631018" ref="contattaci"/>
+    <file name="u1224-m4.png" crc="445992265" ref="contattaci"/>
+    <file name="u1224-fs4.png" crc="471411446" ref="contattaci"/>
+    <file name="u12544.png" crc="3830435925" ref="contattaci"/>
+    <file name="u1254-ferr4.png" crc="4035180808" ref="contattaci"/>
+    <file name="sotto25-contattaci-crop-u447044.png" crc="512890931" ref="contattaci"/>
+    <file name="u1211-45.png" crc="244021806" ref="contattaci"/>
+    <file name="u1856-45.png" crc="4157465277" ref="contattaci"/>
+    <file name="u12245.png" crc="267200252" ref="contattaci"/>
+    <file name="u1224-r5.png" crc="3863011676" ref="contattaci"/>
+    <file name="u1224-m5.png" crc="4054593865" ref="contattaci"/>
+    <file name="u1224-fs5.png" crc="382592824" ref="contattaci"/>
+    <file name="u12545.png" crc="257190020" ref="contattaci"/>
+    <file name="u1254-ferr5.png" crc="3842266765" ref="contattaci"/>
+    <file name="sotto25-contattaci-crop-u447045.png" crc="4282268380" ref="contattaci"/>
+    <file name="u1211-46.png" crc="256611865" ref="contattaci"/>
+    <file name="u1856-46.png" crc="447327069" ref="contattaci"/>
+    <file name="u12246.png" crc="17311508" ref="contattaci"/>
+    <file name="u1224-r6.png" crc="3918310114" ref="contattaci"/>
+    <file name="u1224-m6.png" crc="25096285" ref="contattaci"/>
+    <file name="u1224-fs6.png" crc="451748927" ref="contattaci"/>
+    <file name="u12546.png" crc="509563340" ref="contattaci"/>
+    <file name="u1254-ferr6.png" crc="4049671611" ref="contattaci"/>
+    <file name="sotto25-contattaci-crop-u447046.png" crc="24361441" ref="contattaci"/>
+    <file name="u1211-47.png" crc="4103911767" ref="contattaci"/>
+    <file name="u1856-47.png" crc="3910831198" ref="contattaci"/>
+    <file name="u12247.png" crc="460592537" ref="contattaci"/>
+    <file name="u1224-r7.png" crc="3942737285" ref="contattaci"/>
+    <file name="u1224-m7.png" crc="3922205750" ref="contattaci"/>
+    <file name="u1224-fs7.png" crc="4097232754" ref="contattaci"/>
+    <file name="u12547.png" crc="371405912" ref="contattaci"/>
+    <file name="u1254-ferr7.png" crc="325351017" ref="contattaci"/>
+    <file name="sotto25-contattaci-crop-u447047.png" crc="342932438" ref="contattaci"/>
+  </folder>
+  <file name="index.html" crc="3939900438" seo="true" mt="1488308923607" redirect="true"/>
+  <file name="recensioni.html" crc="391826471" seo="true" mt="1488308923607" redirect="true"/>
+  <file name="regioni.html" crc="3798100188" seo="true" mt="1488308923607" redirect="true"/>
+  <file name="contattaci.html" crc="475403137" seo="true" mt="1488309087231" redirect="true"/>
+</manifest>
